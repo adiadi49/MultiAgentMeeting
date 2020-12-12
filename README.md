@@ -1,7 +1,7 @@
 # MultiAgentMeeting
 Multi-Agent Meeting Scheduler
 
-
+Use this arguments to run this project: "-gui -agents "Authentication:jadeproject.Authenticator();Scheduler:jadeproject.SchedulerAgent(10000)""
 
 #Setting.java
 
